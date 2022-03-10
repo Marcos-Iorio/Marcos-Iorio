@@ -14,5 +14,5 @@ I work as a web developer at **Lund Marketing** making webpages in Wordpress and
 
 ➡️ I would like to learn a backend language like Go and specialize in front-end technologies.
 
-📞 Reach me by [Mail me](marcossiorio@gmail.com) or in [Linkedin](https://www.linkedin.com/in/marcos-ignacio-iorio-93a31a191/)
+📞 Reach me by sending me a [mail](marcossiorio@gmail.com) or throught [Linkedin](https://www.linkedin.com/in/marcos-ignacio-iorio-93a31a191/)
 
