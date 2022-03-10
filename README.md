@@ -1,6 +1,6 @@
 ## Hey there, I'm Marcos Iorio 👋
 
-I work as a # web developer at **Lund Marketing** making webpages in Wordpress and Vtex.
+I work as a web developer at **Lund Marketing** making webpages in Wordpress and Vtex.
 
 ## About me
 
