@@ -4,7 +4,7 @@ I work as a web developer at **Lund Marketing** making webpages in Wordpress and
 
 ## About me
 
-👱 I'm 21 years old, i'm from Argentina and i started to code about 3 years ago, in 2020 i discover that i like the front-end development.
+👱 I'm 22 years old, i'm from Argentina and i started to code about 3 years ago, in 2020 i discover that i like the front-end development.
 
 📖 I have a System Analyst degree.
 
