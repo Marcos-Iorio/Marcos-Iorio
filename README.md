@@ -12,5 +12,5 @@ I work as a web developer at **Lund Marketing** making webpages in Wordpress and
 
 ⚙️ I've some experience using Slim to create a API REST with php and JWT to validate the users. In the future i would like to learn a backend language like Go.
 
-📞 Reach me by sending me a [mail](marcossiorio@gmail.com) or throught [Linkedin](https://www.linkedin.com/in/marcos-ignacio-iorio-93a31a191/).
+📞 Reach me by sending me a [mail](marcossiorio@gmail.com) or throught [Linkedin](https://www.linkedin.com/in/marcos-ignacio-iorio/).
 
