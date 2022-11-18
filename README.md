@@ -8,7 +8,7 @@ I work as a web developer at **Lund Marketing** making webpages in Wordpress and
 
 📖 I have a System Analyst degree.
 
-💻 I've knowledge in React, Context API, Sass, Tailwind. Now learning Redux and Typescript.
+💻 I've knowledge in React, Context API, Sass, Tailwind, React-Query, Typescript, Redux. Now Testing and practicing Nextjs.
 
 ⚙️ I've some experience using Slim to create a API REST with php and JWT to validate the users. In the future i would like to learn a backend language like Go.
 
