@@ -1,7 +1,10 @@
-## Hey there, I'm Marcos Iorio 👋
+## Hey there, I'm Marcos 👋
 
-I worked as a web developer at **Lund Marketing** making webpages in Wordpress and Vtex since 2021.
-Currently I'm searching for a full time job.
+I'm a Front-end developer working in Motorola.
+
+My Stack right now is: Javascript, Tailwind, Sass, Next, React.
+
+I'm eager to learn new technologies such as Go, C#, Python, RoR.
 
 ## About me
 
