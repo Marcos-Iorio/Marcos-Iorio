@@ -2,7 +2,7 @@
 
 I'm a Front-end developer working in Motorola.
 
-My Stack right now is: Javascript, Tailwind, Sass, Next, React.
+My Stack right now is: Typescript, Tailwind, Sass, Next, React.
 
 I'm eager to learn new technologies such as Go, C#, Python, RoR.
 
