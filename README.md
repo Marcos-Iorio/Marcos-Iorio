@@ -1,10 +1,10 @@
 ## Hey there, I'm Marcos 👋
 
-I'm a Front-end developer working in Motorola.
+I'm a Software Engineer in Light It ⚡️.
 
-My Stack right now is: Typescript, Tailwind, Sass, Next, React.
+My Stack right now is: Typescript, Tailwind, Sass, Next, React, PHP, Laravel, MySQL, Docker.
 
-I'm eager to learn new technologies such as Go, C#, Python, RoR.
+I'm eager to learn new technologies such as Go, C#, Python.
 
 ## About me
 
